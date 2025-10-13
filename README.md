@@ -30,3 +30,24 @@ For example, in the Longest Common Prefix problem, I didn’t rush to code immed
 
 By thinking this way, I realized the solution was less about writing clever syntax and more about understanding where the problem naturally stops.
 This approach is helping me strengthen my analytical ability.
+
+
+
+
+
+
+#### COMPETITIVE PROGRAMMING PRACTICE
+
+* Reading INPUT from user
+  1. For the number of test cases: n=int(input())
+  2. For the numbers themselves or strings or arrays: 
+  ``` Python
+  t = int(input())
+  for _ in range(t):
+    n = int(input())
+    s = input() #for string
+    arr = list(map(int, input().split()))
+    print(sum(arr))
+  ```
+ Continued here- https://colab.research.google.com/drive/1opV0bSTfgLdg1-WuO60HarPAeHBFrVZb?usp=sharing
+  
