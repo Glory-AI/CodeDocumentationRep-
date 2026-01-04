@@ -1,7 +1,7 @@
 # CODING_REPO 
 
 
-I recently participated in solving leetcode problem set using C++, here are the links to my submission- 
+I recently participated in solving leetcode problem set using C++ in oreparation for IEEE Xtreme, here are the links to my submission- 
 
  
 https://leetcode.com/problems/two-sum/submissions/1764507139
